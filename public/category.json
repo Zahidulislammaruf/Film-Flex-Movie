@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "category": "disney",
+        "img": "https://i.ibb.co/D43BP9J/disney-logo-icon-171253.png",
+        "sliders": [
+            {
+              "image": "https://i.ibb.co/j3cr4ZC/desktop-wallpaper-movie-poster.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/hVVCpcX/Turning-Red-Pixar-Movie-Poster-Horizontal.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/frTjNXF/National-Treasure-Edge-Of-History-poster-horizontal.jpg"
+            }
+          ]
+    },
+    {
+        "id": 2,
+        "category": "netflix",
+        "img": "https://i.ibb.co/wQP108r/netflix.png",
+        "sliders": [
+            {
+              "image": "https://i.ibb.co/dkbSDp9/EN-US-My-Name-S1-Teaser-Solo-Horizontal-RGB-PRE.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/Z1TGVs5/DE-Faraway-Main-Horizontal-RGB-PRE.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/pR1chkC/maxresdefault.jpg"
+            }
+          ]
+    },
+    {
+        "id": 3,
+        "category": "max",
+        "img": "https://i.ibb.co/m5vPPtr/Max-29-2023-29.png",
+        "sliders": [
+            {
+              "image": "https://i.ibb.co/K27WVKW/a5917a3e7304b4fd819175060c97181c.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/7kJzWKF/the-other-two-collage-u65027424743tdm-jpg.webp"
+            },
+            {
+              "image": "https://i.ibb.co/ZLBVbbD/01b47227bd8d709ff587fe3178882312828974c2ce255da1569ecb3ba431af04.png"
+            }
+          ]
+    },
+    {
+        "id": 4,
+        "category": "peacock",
+        "img": "https://i.ibb.co/qk0gdnV/Peacock-Tv-on-Google-TV-1.jpg"
+        
+    },
+    {
+        "id": 5,
+        "category": "hbo",
+        "img": "https://i.ibb.co/rm78yNN/online-streaming.png",
+        "sliders": [
+            {
+              "image": "https://i.ibb.co/9sC8zvn/on-the-job-on-hbo-go-via-sky.webp"
+            },
+            {
+              "image": "https://i.ibb.co/1bwJB4C/Only-You-jpg.webp"
+            },
+            {
+              "image": "https://i.ibb.co/YPy5SJM/hq720.jpg"
+            }
+          ]
+    },
+    {
+        "id": 6,
+        "category": "hulu",
+        "img": "https://i.ibb.co/VMsnBmH/hulu-icon.webp",
+        "sliders": [
+            {
+              "image": "https://i.ibb.co/4p8pLRm/prey-press-art-1920x1080-tile-5.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/9swGFsJ/orvile-s3-hero-5879x14400-horizontal-236-v2-pre-1.jpg"
+            },
+            {
+              "image": "https://i.ibb.co/b156zJg/19170-program-tile-horizontal.jpg"
+            }
+          ]
+    }
+]
